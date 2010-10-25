@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<images>
+       <image preservePosition="True" image="ishihara1.gif" question="Esta é uma prancha numérica de demonstracão. Digite no campo de texto o número que você vê e clique em [Next]. Caso nao consiga distinguir nada deixe o campo em branco.">
+                <normal weigth="0" answer="12"/>
+       </image>
+       <image preservePosition="True" image="ishihara24.gif" question="Esta é uma prancha de demonstracão que possui tracos/caminhos. Observe a prancha e digite no campo de texto o código correspondente ao início do caminho  e clique em [Next]. Se houver mais de um caminho, escreva da seguinte forma x1x2. Caso não consiga visualizar nada deixe o campo em branco.">
+	       <normal weigth="0" answer="x"/>
+       </image>
+       
+       <image image="ishihara2.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+                <normal weigth="2" answer="8"/>
+		<colorblind weigth="2" answer="3"/>
+		<mono weigth="2" answer=""/>
+       </image>
+       <image image="ishihara3.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+                <normal weigth="2" answer="29"/>
+                <colorblind weigth="2" answer="70"/>
+                <colorblind weigth="1" answer="7"/>
+                <colorblind weigth="1" answer="0"/>
+                <colorblind weigth="1" answer="79"/>
+                <colorblind weigth="1" answer="20"/>
+		<colorblind weigth="1" answer="2"/>
+		<colorblind weigth="1" answer="9"/>
+                <mono weigth="2" answer=""/>
+       </image>
+       <image image="ishihara4.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+	       <normal weigth="2" answer="5"/>
+	       <colorblind weigth="2" answer="2"/>
+	       <mono weigth="2" answer=""/>
+       </image>
+       <image image="ishihara5.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="3"/>
+		<colorblind weigth="2" answer="5"/>
+		<mono weigth="2" answer=""/>
+        </image>
+	<image image="ishihara6.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="15"/>
+		<colorblind weigth="2" answer="17"/>
+		<colorblind weigth="1" answer="1"/>
+		<colorblind weigth="1" answer="7"/>
+		<colorblind weigth="1" answer="5"/>
+                <mono weigth="2" answer=""/>
+        </image>
+	<image image="ishihara7.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="74"/>
+		<colorblind weigth="2" answer="70"/>
+		<colorblind weigth="1" answer="7"/>
+		<colorblind weigth="1" answer="0"/>
+		<colorblind weigth="1" answer="79"/>
+		<colorblind weigth="1" answer="20"/>
+		<colorblind weigth="1" answer="2"/>
+		<colorblind weigth="1" answer="9"/>
+                <mono weigth="2" answer=""/>
+        </image>
+	<image image="ishihara8.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="6"/>
+		<colorblind weigth="2" answer=""/>
+        </image>
+	<image image="ishihara9.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="45"/>
+		<colorblind weigth="2" answer=""/>
+		<colorblind weigth="1" answer="4"/>
+		<colorblind weigth="1" answer="5"/>
+        </image>
+	<image image="ishihara10.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="5"/>
+		<colorblind weigth="2" answer=""/>
+        </image>
+	<image image="ishihara11.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="7"/>
+		<colorblind weigth="2" answer=""/>
+        </image>
+	<image image="ishihara12.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="16"/>
+		<colorblind weigth="2" answer=""/>
+		<colorblind weigth="1" answer="1"/>
+		<colorblind weigth="1" answer="6"/>
+        </image>
+	<image image="ishihara13.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="73"/>
+		<colorblind weigth="2" answer=""/>
+		<colorblind weigth="1" answer="7"/>
+		<colorblind weigth="1" answer="3"/>
+        </image>	
+	<image image="ishihara14.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="4" answer=""/>
+		<colorblind weigth="4" answer="5"/>
+        </image>
+	<image image="ishihara15.gif" question="Digite no campo de texto o que você vê e clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="4" answer=""/>
+		<colorblind weigth="4" answer="45"/>
+		<colorblind weigth="2" answer="4"/>
+		<colorblind weigth="2" answer="5"/>
+        </image>
+	<image image="ishihara16.gif" question="Digite no campo de texto o que você vê. Se algum algarismo for percebido com dificuldade coloque-o entre parêntesis, por exemplo, (x)y ou x(y). Depois clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="26"/>
+		<colorblind weigth="2">
+			<protan weigth="2" answer="6"/>
+			<protan weigth="1" answer="(2)6"/>
+			<deutan weigth="2" answer="2"/>
+			<deutan weigth="1" answer="2(6)"/>
+		</colorblind>
+        </image>
+	<image image="ishihara17.gif" question="Digite no campo de texto o que você vê. Se algum algarismo for percebido com mais dificuldade coloque-o entre parêntesis, por exemplo, (x)y ou x(y). Depois clique em [Next]. Caso não veja nada deixe o campo em branco.">
+		<normal weigth="2" answer="42"/>
+		<colorblind weigth="2">
+			<protan weigth="2" answer="2"/>
+			<protan weigth="1" answer="(4)2"/>
+			<deutan weigth="2" answer="4"/>
+			<deutan weigth="1" answer="4(2)"/>
+		</colorblind>
+        </image>
+	<image image="ishihara18.gif" question="Digite no campo de texto o código correspondente. Se algum caminho for percebido com mais dificuldade coloque-o entre parêntesis, por exemplo, (x1)x2 ou x1(x2), senão escreva da seguinte forma x1x2. Depois clique em [Next]. Caso não veja nada, deixe o campo em branco.">
+		<normal weigth="2" answer="x1x2"/>
+		<colorblind weigth="2">
+			<protan weigth="2" answer="x2"/>
+			<protan weigth="1" answer="(x1)x2"/>
+			<deutan weigth="2" answer="x1"/>
+			<deutan weigth="1" answer="x1(x2)"/>
+		</colorblind>
+        </image>
+	<image image="ishihara19.gif" question="Observe a prancha e digite no campo de texto o código correspondente ao início do caminho  e clique em [Next]. Se houver mais de um caminho, escreva da seguinte forma x1x2. Caso não consiga visualizar nada deixe o campo em branco.">
+		<normal weigth="2" answer=""/>
+		<colorblind weigth="2" answer="x" />
+        </image>
+	<image image="ishihara20.gif" question="Observe a prancha e digite no campo de texto o código correspondente ao início do caminho  e clique em [Next]. Se houver mais de um caminho, escreva da seguinte forma x1x2. Caso não consiga visualizar nada deixe o campo em branco.">
+		<normal weigth="2" answer="x"/>
+		<colorblind weigth="2" answer="" />
+        </image>
+	<image image="ishihara21.gif" question="Observe a prancha e digite no campo de texto o código correspondente ao início do caminho  e clique em [Next]. Se houver mais de um caminho, escreva da seguinte forma x1x2. Caso não consiga visualizar nada deixe o campo em branco.">
+		<normal weigth="2" answer="x"/>
+		<colorblind weigth="2" answer="" />
+        </image>
+		<image image="ishihara22.gif" question="Observe a prancha e digite no campo de texto o código correspondente ao início do caminho  e clique em [Next]. Se houver mais de um caminho, escreva da seguinte forma x1x2. Caso não consiga visualizar nada deixe o campo em branco.">
+		<normal weigth="2" answer="x"/>
+		<colorblind weigth="2" answer="" />
+        </image>
+		<image image="ishihara23.gif" question="Observe a prancha e digite no campo de texto o código correspondente ao início do caminho  e clique em [Next]. Se houver mais de um caminho, escreva da seguinte forma x1x2. Caso não consiga visualizar nada deixe o campo em branco.">
+		<normal weigth="2" answer="x"/>
+		<colorblind weigth="2" answer="" />
+        </image>
+		
+</images>
